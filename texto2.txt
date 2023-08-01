@@ -1,2 +1,3 @@
 este es un archvo creado en salvador
 esta es una modificacion del archivo antes del add
+https://mauriciogc.medium.com/react-mi-primera-app-con-create-react-app-38cefc99b888
